@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hello World!</h1>
 
-<p>My name is Kevin, and here are a few things I'm working on:</p>
+<p>My name is pratyush mishra, and here are a few things I'm working on:</p>
 
 <ul>
+  <li>I am student of B.Tech 2nd year at Invertis University Bareilly</li>
+  <li>Software devloper</li>
   <li>Happy Coding</li>
-  <li>Software Product Sprint</li>
-  <li>Google Maps</li>
 </ul>
 
 <hr>
