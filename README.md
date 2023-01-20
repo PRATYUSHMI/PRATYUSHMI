@@ -1,24 +1,12 @@
-- 👋 Hi, I’m @PRATYUSHMI
-- 👀 I’m interested in WEB DEVLOPMENT..
-- 🌱 I’m currently learning CSE...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">
+ <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-<!---
-PRATYUSHMI/PRATYUSHMI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hello World!</h1>
 
-<p>My name is pratyush mishra,</p>
-
-<ul>
-  <li>I am student of B.Tech 2nd year at Invertis University Bareilly</li>
-  <li>Software devloper</li>
-  <li>Happy Coding</li>
-</ul>
-
-<hr>
-
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
- 
