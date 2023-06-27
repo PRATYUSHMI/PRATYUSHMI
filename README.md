@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PRATYUSH MISHRA
 =======================================================================================================================================
 
-Computer science engineering student
+Computer Science Engineering Student
 ------------------------------------
 
 * 🌍  I'm based in bareilly
 * ✉️  You can contact me at [mishrapratyush534@gmail.com](mailto:mishrapratyush534@gmail.com)
-* 🧠  I'm learning Machine learning
+* 🧠  I'm learn Machine learning
 
 <a href="https://www.github.com/PRATYUSHMI" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PRATYUSHMI?logo=github&style=for-the-badge&color=0f172a&labelColor=1c1917" /></a><a href="https://www.twitter.com/pratyush681841" target="_blank" rel="noreferrer"><img
