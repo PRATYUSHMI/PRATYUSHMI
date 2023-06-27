@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science engineering student
 ------------------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in bareilly
 * ✉️  You can contact me at [mishrapratyush534@gmail.com](mailto:mishrapratyush534@gmail.com)
 * 🧠  I'm learning Machine learning
 
